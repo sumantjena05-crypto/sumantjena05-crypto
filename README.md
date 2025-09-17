@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm sumant jena</h1>
+<h1 align="center"> ⚙️ DevOps Engineer | 🚀 Automating infrastructure & CI/CD  
+☁️ Skilled in AWS | Docker | Kubernetes | Jenkins | Terraform  
+🔐 Passionate about Cloud, Security & Scalability  
+🤝 Open to collaboration on DevOps & Cloud projects </h1>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumantjena05-crypto&label=Profile%20views&color=0e75b6&style=flat" alt="sumantjena05-crypto" /> </p>
